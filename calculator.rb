@@ -23,5 +23,3 @@ end
 def divide_them(first_number, second_number)
   quotient = first_number / second_number
 end
-
-
